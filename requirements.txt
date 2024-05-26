@@ -1,0 +1,8 @@
+Global Super Store Sale for the year 22-23
+
+calculated sum of margin and total revenu
+basic calculation sum of shipping and product by region
+sum of ssalesperson and no.items by customer
+sum of region and salesperson by product
+showcasing sum of margin, total revenue and shipping based on salesperson
+and total number of isets sold by year and month
